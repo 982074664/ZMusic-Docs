@@ -21,8 +21,8 @@ title: 网易云音乐API
 | :---------------------------------------------------: | :---: | :----------------------------------------: | :----------------------------------------------------------------------: |
 |   [https://wyy.whksoft.cn](https://wyy.whksoft.cn)    | 上海  | [舞晗坤](https://github.com/SleepyAsh0191) | [赞助二维码](https://img.kookapp.cn/assets/2022-07/rjsOa6Tqky0ks0ks.jpg) |
 | [https://wyygz.whksoft.cn](https://wyygz.whksoft.cn)  | 广州  | [舞晗坤](https://github.com/SleepyAsh0191) | [赞助二维码](https://img.kookapp.cn/assets/2022-07/rjsOa6Tqky0ks0ks.jpg) |
-|   [https://music.mcseekeri.top](https://music.mcseekeri.top/) | 美国 | [MCSeekeri](https://github.com/SleepyAsh0191)
-
+|   [https://music.mcseekeri.top](https://music.mcseekeri.top/)| 美国 | [MCSeekeri](https://github.com/SleepyAsh0191)
+|[https://zm.hk1.kujiyun.com](https://zm.hk1.kujiyun.com)|香港|[酷极云](https://github.com/SleepyAsh0191)    |[赞助二维码](https://kujiyun.com) |
 ## 部署
 
 部署前确保已安装如下环境
